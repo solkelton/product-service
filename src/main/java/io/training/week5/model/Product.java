@@ -10,7 +10,6 @@ public class Product {
   @Id
   @GeneratedValue
   private long id;
-
   private String name;
   private String description;
   private String image;
